@@ -1,0 +1,38 @@
+ls
+cp weka.log weka.test.log
+ls
+e weka.test.log
+emacs weka.test.log
+c:/Software/emacs-24.2/bin/emacsclientw.exe weka.test.log
+ls
+cd Dropbox/
+ls
+cd HTLCSCPP/
+ls
+cd ch10
+ls
+resize.exe 
+resise.cpp.o
+./resise.cpp.o
+resize.cpp.o
+ls
+ls
+ls -a
+./resize.cpp.o
+ls -l
+chmod u+x resize.cpp.o
+ls -l
+./resize.cpp.o
+quit
+exit
+ls
+cd ..
+ls
+./a.exe
+./a.exe
+./a.exe
+ls
+`basename .cpp *`
+'basename .cpp *'
+$(basename .cpp *)
+./p00.exe 
